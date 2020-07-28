@@ -1,0 +1,1 @@
+# Dieser Ordner ist für sämtliche [draw.io](https://app.diagrams.net/) Diagramme
