@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-31T08:23:06.557Z" agent="5.0 (Windows)" etag="bxOLS17jshuLMYjoyOrS" version="13.5.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-07-31T08:24:24.978Z" agent="5.0 (Windows)" etag="KfNQtPtCwWQwGdNRXt56" version="13.5.7" type="github" pages="3">
   <diagram id="aqHeSlBcvXiXOjExBY4y" name="overview">
-    <mxGraphModel dx="2076" dy="1150" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1" extFonts="Caveat^https://fonts.googleapis.com/css?family=Caveat">
+    <mxGraphModel dx="2076" dy="1150" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="757" pageHeight="769" background="none" math="0" shadow="1" extFonts="Caveat^https://fonts.googleapis.com/css?family=Caveat">
       <root>
         <mxCell id="UKkLcuHF_fx8RomHYdhX-0" />
         <mxCell id="UKkLcuHF_fx8RomHYdhX-1" parent="UKkLcuHF_fx8RomHYdhX-0" />
@@ -12,21 +12,21 @@
         </mxCell>
         <mxCell id="pYGqHOcFP-4IHi820C4A-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;sketch=1;strokeColor=#09555B;fontColor=#1A1A1A;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" parent="UKkLcuHF_fx8RomHYdhX-1" source="UKkLcuHF_fx8RomHYdhX-2" target="pYGqHOcFP-4IHi820C4A-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="336" y="478" as="sourcePoint" />
+            <mxPoint x="307" y="295" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pYGqHOcFP-4IHi820C4A-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;curved=1;sketch=1;strokeColor=#09555B;fontColor=#1A1A1A;strokeWidth=3;" parent="UKkLcuHF_fx8RomHYdhX-1" source="UKkLcuHF_fx8RomHYdhX-2" target="pYGqHOcFP-4IHi820C4A-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UKkLcuHF_fx8RomHYdhX-2" value="&lt;font style=&quot;font-size: 40px&quot; face=&quot;Caveat&quot;&gt;&lt;i&gt;&lt;b&gt;&lt;font style=&quot;font-size: 40px&quot;&gt;Big Picture&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;sketch=1;fontColor=#1A1A1A;" parent="UKkLcuHF_fx8RomHYdhX-1" vertex="1">
-          <mxGeometry x="322" y="541" width="184" height="84" as="geometry" />
+          <mxGeometry x="293" y="358" width="184" height="84" as="geometry" />
         </mxCell>
         <mxCell id="pYGqHOcFP-4IHi820C4A-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;sketch=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="UKkLcuHF_fx8RomHYdhX-1" source="60kA3YNt6HDmf7yOFUqT-0" target="pYGqHOcFP-4IHi820C4A-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="EVA" link="data:page/id,7l1dg0tEb2V09woH2qkD" id="60kA3YNt6HDmf7yOFUqT-0">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;sketch=1;fillColor=#FAA885;fontColor=#3399FF;fontFamily=Caveat;fontSize=35;fontStyle=1;" parent="UKkLcuHF_fx8RomHYdhX-1" vertex="1">
-            <mxGeometry x="554" y="689" width="101" height="101" as="geometry" />
+            <mxGeometry x="525" y="506" width="101" height="101" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="pYGqHOcFP-4IHi820C4A-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=1;sketch=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="UKkLcuHF_fx8RomHYdhX-1" source="pYGqHOcFP-4IHi820C4A-2" target="pYGqHOcFP-4IHi820C4A-19" edge="1">
@@ -36,11 +36,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYGqHOcFP-4IHi820C4A-2" value="Flüchtige Notizen" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;sketch=1;fillColor=#FAA885;fontColor=#3399FF;fontFamily=Caveat;fontSize=35;fontStyle=1;" parent="UKkLcuHF_fx8RomHYdhX-1" vertex="1">
-          <mxGeometry x="242" y="705" width="100" height="100" as="geometry" />
+          <mxGeometry x="213" y="522" width="100" height="100" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;span style=&quot;font-size: 35px;&quot;&gt;&lt;font style=&quot;font-size: 35px;&quot; face=&quot;Caveat&quot;&gt;Zettelkasten&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" link="http://127.0.0.1:8080/#Zettelkasten" id="pYGqHOcFP-4IHi820C4A-5">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;sketch=1;fillColor=#FAA885;fontFamily=Caveat;FType=g;fontColor=#3399FF;fontSize=35;fontStyle=1" parent="UKkLcuHF_fx8RomHYdhX-1" vertex="1">
-            <mxGeometry x="601" y="310" width="115" height="115" as="geometry" />
+            <mxGeometry x="572" y="127" width="115" height="115" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="pYGqHOcFP-4IHi820C4A-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;sketch=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="UKkLcuHF_fx8RomHYdhX-1" source="pYGqHOcFP-4IHi820C4A-8" target="pYGqHOcFP-4IHi820C4A-11" edge="1">
@@ -51,32 +51,32 @@
         </mxCell>
         <UserObject label="Urteil" id="pYGqHOcFP-4IHi820C4A-8">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;sketch=1;fontColor=#3399FF;fontFamily=Caveat;fontSize=35;fontStyle=1;fillColor=#FAA885;" parent="UKkLcuHF_fx8RomHYdhX-1" vertex="1">
-            <mxGeometry x="260" y="338" width="97" height="97" as="geometry" />
+            <mxGeometry x="231" y="155" width="97" height="97" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Komplexität" id="pYGqHOcFP-4IHi820C4A-11">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;sketch=1;fillColor=#FAD9D5;fontColor=#3399FF;fontFamily=Caveat;fontSize=25;" parent="UKkLcuHF_fx8RomHYdhX-1" vertex="1">
-            <mxGeometry x="60" y="373" width="108" height="108" as="geometry" />
+            <mxGeometry x="31" y="190" width="108" height="108" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Flow" id="pYGqHOcFP-4IHi820C4A-13">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;sketch=1;fillColor=#FAD9D5;fontColor=#3399FF;fontFamily=Caveat;fontSize=25;" parent="UKkLcuHF_fx8RomHYdhX-1" vertex="1">
-            <mxGeometry x="690" y="798" width="65" height="65" as="geometry" />
+            <mxGeometry x="661" y="615" width="65" height="65" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Entspannung" id="pYGqHOcFP-4IHi820C4A-17">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;sketch=1;fillColor=#FAD9D5;fontColor=#3399FF;fontFamily=Caveat;fontSize=25;" parent="UKkLcuHF_fx8RomHYdhX-1" vertex="1">
-            <mxGeometry x="168" y="207" width="97" height="97" as="geometry" />
+            <mxGeometry x="139" y="24" width="97" height="97" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Gedanken" id="pYGqHOcFP-4IHi820C4A-19">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;sketch=1;fillColor=#FAD9D5;fontColor=#3399FF;fontFamily=Caveat;fontSize=25;" parent="UKkLcuHF_fx8RomHYdhX-1" vertex="1">
-            <mxGeometry x="82" y="740" width="65" height="65" as="geometry" />
+            <mxGeometry x="53" y="557" width="65" height="65" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Aufgaben" id="pYGqHOcFP-4IHi820C4A-21">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;sketch=1;fillColor=#FAD9D5;fontColor=#3399FF;fontFamily=Caveat;fontSize=25;" parent="UKkLcuHF_fx8RomHYdhX-1" vertex="1">
-            <mxGeometry x="220" y="863" width="65" height="65" as="geometry" />
+            <mxGeometry x="191" y="680" width="65" height="65" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
