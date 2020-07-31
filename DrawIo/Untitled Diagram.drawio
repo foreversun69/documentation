@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-31T21:24:31.069Z" agent="5.0 (Windows)" etag="Bv7AILe1xH5PqTSx4lbs" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-31T21:25:59.628Z" agent="5.0 (Windows)" etag="TvMlsuQW5fDZmonNOV-R" version="13.5.8" type="github">
   <diagram id="aqHeSlBcvXiXOjExBY4y" name="overview">
     <mxGraphModel dx="1038" dy="575" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="757" pageHeight="769" background="none" math="0" shadow="1" extFonts="Caveat^https://fonts.googleapis.com/css?family=Caveat">
       <root>
@@ -101,9 +101,6 @@
             <mxGeometry x="184" y="678" width="65" height="65" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="aYFmD6B609Q7QJi0Z5lU-0" value="Ich hasse das" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UKkLcuHF_fx8RomHYdhX-1">
-          <mxGeometry x="405" y="88" width="40" height="20" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
