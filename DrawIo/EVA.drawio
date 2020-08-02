@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-02T20:05:09.886Z" agent="5.0 (Windows)" etag="VqK50Mc51DjSjw9rESWc" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-02T20:05:28.055Z" agent="5.0 (Windows)" etag="unIstJpXSPXJJSHy3ATk" version="13.5.8" type="github">
   <diagram name="EVA" id="LGrXJrhcOQH4PXI3Mq-y">
     <mxGraphModel dx="1730" dy="958" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
         <mxCell id="C_8bVwX5II559LBR6Ncd-31" value="Was weiß ich zum Thema / Inventur?" style="ellipse;whiteSpace=wrap;html=1;" parent="C_8bVwX5II559LBR6Ncd-1" vertex="1">
           <mxGeometry x="954" y="717" width="89" height="68" as="geometry" />
         </mxCell>
-        <object label="&lt;h1&gt;Iteration&lt;br&gt;&lt;/h1&gt;&lt;div&gt;Wiederholung ist die Mutter der Wissenschaft.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Die Frage: Wie möchte ich zeitlich konkret die einzelnen Buchstaben umsetzen.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Welchen Energieverbrauch?&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" id="C_8bVwX5II559LBR6Ncd-35">
+        <object label="&lt;h1 align=&quot;center&quot;&gt;Iteration&lt;br&gt;&lt;/h1&gt;&lt;div&gt;Wiederholung ist die Mutter der Wissenschaft.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Die Frage: Wie möchte ich zeitlich konkret die einzelnen Buchstaben umsetzen.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Welchen Energieverbrauch?&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" id="C_8bVwX5II559LBR6Ncd-35">
           <mxCell style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;" parent="C_8bVwX5II559LBR6Ncd-1" vertex="1">
             <mxGeometry x="379.5" y="310" width="265" height="198" as="geometry" />
           </mxCell>
