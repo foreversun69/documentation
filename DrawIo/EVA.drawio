@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-02T16:57:15.819Z" agent="5.0 (Windows)" etag="iAPQujl06G9tXj8YZxz2" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-02T19:43:40.915Z" agent="5.0 (Windows)" etag="bGhrhDYC3B21KHvjv9pE" version="13.5.8" type="github">
   <diagram name="EVA" id="LGrXJrhcOQH4PXI3Mq-y">
-    <mxGraphModel dx="1038" dy="575" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="479" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="C_8bVwX5II559LBR6Ncd-0" />
         <mxCell id="C_8bVwX5II559LBR6Ncd-1" parent="C_8bVwX5II559LBR6Ncd-0" />
@@ -30,14 +30,9 @@
         <mxCell id="C_8bVwX5II559LBR6Ncd-9" value="&lt;div&gt;&lt;font style=&quot;font-size: 25px&quot;&gt;A&lt;/font&gt;&lt;/div&gt;Ausgabe" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="C_8bVwX5II559LBR6Ncd-1" vertex="1">
           <mxGeometry x="58" y="492" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C_8bVwX5II559LBR6Ncd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=5;strokeColor=#33FF33;" parent="C_8bVwX5II559LBR6Ncd-1" source="C_8bVwX5II559LBR6Ncd-12" target="C_8bVwX5II559LBR6Ncd-18" edge="1">
+        <mxCell id="C_8bVwX5II559LBR6Ncd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;strokeWidth=5;strokeColor=#33FF33;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="C_8bVwX5II559LBR6Ncd-1" source="C_8bVwX5II559LBR6Ncd-12" target="C_8bVwX5II559LBR6Ncd-18" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="908" y="572" />
-              <mxPoint x="988" y="572" />
-              <mxPoint x="988" y="462" />
-              <mxPoint x="1083" y="462" />
-            </Array>
+            <mxPoint x="1030" y="497" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C_8bVwX5II559LBR6Ncd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=5;" parent="C_8bVwX5II559LBR6Ncd-1" source="C_8bVwX5II559LBR6Ncd-12" target="C_8bVwX5II559LBR6Ncd-17" edge="1">
@@ -74,7 +69,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="C_8bVwX5II559LBR6Ncd-18" value="Intelligente Fragen" style="ellipse;whiteSpace=wrap;html=1;" parent="C_8bVwX5II559LBR6Ncd-1" vertex="1">
-          <mxGeometry x="1023" y="508" width="120" height="80" as="geometry" />
+          <mxGeometry x="1034" y="505" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C_8bVwX5II559LBR6Ncd-19" value="ABC-Listen" style="ellipse;whiteSpace=wrap;html=1;" parent="C_8bVwX5II559LBR6Ncd-1" vertex="1">
           <mxGeometry x="857" y="638" width="73" height="66" as="geometry" />
@@ -111,15 +106,15 @@
         <mxCell id="C_8bVwX5II559LBR6Ncd-27" value="&lt;font style=&quot;font-size: 20px&quot;&gt;3.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="C_8bVwX5II559LBR6Ncd-1" vertex="1">
           <mxGeometry x="215" y="492" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="C_8bVwX5II559LBR6Ncd-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeColor=#33FF33;strokeWidth=4;" parent="C_8bVwX5II559LBR6Ncd-1" source="C_8bVwX5II559LBR6Ncd-18" target="C_8bVwX5II559LBR6Ncd-29" edge="1">
+        <mxCell id="C_8bVwX5II559LBR6Ncd-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeColor=#33FF33;strokeWidth=5;" parent="C_8bVwX5II559LBR6Ncd-1" source="C_8bVwX5II559LBR6Ncd-12" target="C_8bVwX5II559LBR6Ncd-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="931" y="774" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C_8bVwX5II559LBR6Ncd-29" value="Thema aussuchen" style="ellipse;whiteSpace=wrap;html=1;" parent="C_8bVwX5II559LBR6Ncd-1" vertex="1">
-          <mxGeometry x="1055" y="645" width="83" height="67" as="geometry" />
+        <mxCell id="C_8bVwX5II559LBR6Ncd-29" value="Skelett/Modell aussuchen" style="ellipse;whiteSpace=wrap;html=1;" parent="C_8bVwX5II559LBR6Ncd-1" vertex="1">
+          <mxGeometry x="963" y="618" width="83" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="C_8bVwX5II559LBR6Ncd-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeColor=#33FF33;strokeWidth=3;" parent="C_8bVwX5II559LBR6Ncd-1" source="C_8bVwX5II559LBR6Ncd-29" target="C_8bVwX5II559LBR6Ncd-31" edge="1">
+        <mxCell id="C_8bVwX5II559LBR6Ncd-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#33FF33;strokeWidth=3;" parent="C_8bVwX5II559LBR6Ncd-1" source="C_8bVwX5II559LBR6Ncd-29" target="C_8bVwX5II559LBR6Ncd-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="764" y="802" as="sourcePoint" />
           </mxGeometry>
@@ -145,9 +140,9 @@
             <mxPoint x="791" y="701" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object label="&lt;h1&gt;Iteration&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Wiederholung ist die Mutter der Wissenschaft.&lt;/p&gt;" id="C_8bVwX5II559LBR6Ncd-35">
+        <object label="&lt;h1&gt;Iteration&lt;br&gt;&lt;/h1&gt;&lt;div&gt;Wiederholung ist die Mutter der Wissenschaft.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Die Frage: Wie möchte ich zeitlich konkret die einzelnen Buchstaben umsetzen.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" id="C_8bVwX5II559LBR6Ncd-35">
           <mxCell style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;" parent="C_8bVwX5II559LBR6Ncd-1" vertex="1">
-            <mxGeometry x="417" y="371" width="190" height="85" as="geometry" />
+            <mxGeometry x="379.5" y="310" width="265" height="198" as="geometry" />
           </mxCell>
         </object>
         <UserObject label="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;&lt;i&gt;Photoreading&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" link="https://1drv.ms/b/s!AnAzeiSFc--Uh9o2wIYooI-SM2pa7w?e=JApZZM" id="C_8bVwX5II559LBR6Ncd-36">
@@ -158,11 +153,20 @@
         <mxCell id="C_8bVwX5II559LBR6Ncd-37" value="&lt;h1 align=&quot;center&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Warum das Ganze?&lt;/font&gt;&lt;/h1&gt;&lt;div align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 14px&quot; face=&quot;Comic Sans MS&quot;&gt;Es reicht nicht, etwas intellektuell zu verstehen:&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;blockquote style=&quot;font-size: 18px&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;&amp;nbsp;Erst durch umsetzen, anwenden und tun gehen wir den verstandenen Weg &lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="C_8bVwX5II559LBR6Ncd-1" vertex="1">
           <mxGeometry x="879" y="17" width="259" height="219" as="geometry" />
         </mxCell>
-        <mxCell id="x4UegTdwX4822yDoSENV-0" value="&lt;div&gt;E = Wahrnehmung&lt;br&gt;&lt;/div&gt;?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#b85450;fillColor=#FF6666;" parent="C_8bVwX5II559LBR6Ncd-1" vertex="1">
-          <mxGeometry x="511" y="290" width="80" height="80" as="geometry" />
+        <mxCell id="x4UegTdwX4822yDoSENV-0" value="&lt;div&gt;E = Wahrnehmung?&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#b85450;fillColor=#FF6666;" parent="C_8bVwX5II559LBR6Ncd-1" vertex="1">
+          <mxGeometry x="92" y="111" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="32zvGT-OXNGZqhHEBp1y-0" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px&quot;&gt;Fragen zu EVA&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Modus Verstreuung =&amp;gt; ABC-Liste&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Modus Fokusierung =&amp;gt; KaGa&#39;s und KaWa&#39;s&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;In den verschiedenen Phasen des EVA&#39;s&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Über allem steht jedoch die Zeit / Energie!&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;fontSize=14;fontStyle=2" parent="C_8bVwX5II559LBR6Ncd-1" vertex="1">
           <mxGeometry x="840" y="213" width="329" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="KvtZH145KzSEb8ErNgZU-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;strokeWidth=3;strokeColor=#33FF33;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="C_8bVwX5II559LBR6Ncd-1" source="C_8bVwX5II559LBR6Ncd-18" target="C_8bVwX5II559LBR6Ncd-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1095" y="642" as="sourcePoint" />
+            <mxPoint x="1221" y="635" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvtZH145KzSEb8ErNgZU-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;" vertex="1" parent="C_8bVwX5II559LBR6Ncd-1">
+          <mxGeometry x="903" y="711" width="40" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
