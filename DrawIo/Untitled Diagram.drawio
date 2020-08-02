@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-02T17:06:08.016Z" agent="5.0 (Windows)" etag="4ZXe-p1PxZQQ047kE1y-" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-02T20:33:16.775Z" agent="5.0 (Windows)" etag="-3cNYt9NVwmj3c1tccaj" version="13.5.8" type="github">
   <diagram id="aqHeSlBcvXiXOjExBY4y" name="overview">
     <mxGraphModel dx="1038" dy="575" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="757" pageHeight="769" background="none" math="0" shadow="1" extFonts="Caveat^https://fonts.googleapis.com/css?family=Caveat">
       <root>
@@ -71,7 +71,7 @@
         <mxCell id="pYGqHOcFP-4IHi820C4A-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;sketch=1;strokeColor=#09555B;fontColor=#1A1A1A;strokeWidth=1;" parent="UKkLcuHF_fx8RomHYdhX-1" source="pYGqHOcFP-4IHi820C4A-8" target="pYGqHOcFP-4IHi820C4A-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Urteil" link="http://127.0.0.1:8080/#OWN%20-%20Urteil" id="pYGqHOcFP-4IHi820C4A-8">
+        <UserObject label="Urteil" link="#OWN - Urteil" id="pYGqHOcFP-4IHi820C4A-8">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;sketch=1;fontColor=#3399FF;fontFamily=Caveat;fontSize=35;fontStyle=1;fillColor=#FAA885;" parent="UKkLcuHF_fx8RomHYdhX-1" vertex="1">
             <mxGeometry x="231" y="155" width="97" height="97" as="geometry" />
           </mxCell>
@@ -86,12 +86,12 @@
             <mxGeometry x="665" y="680" width="65" height="65" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Entspannung" link="http://127.0.0.1:8080/#Entspannung" id="pYGqHOcFP-4IHi820C4A-17">
+        <UserObject label="Entspannung" link="#Entspannung" id="pYGqHOcFP-4IHi820C4A-17">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;sketch=1;fillColor=#FAD9D5;fontColor=#3399FF;fontFamily=Caveat;fontSize=25;" parent="UKkLcuHF_fx8RomHYdhX-1" vertex="1">
             <mxGeometry x="139" y="24" width="97" height="97" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Gedanken" link="http://127.0.0.1:8080/#Gedanken" id="pYGqHOcFP-4IHi820C4A-19">
+        <UserObject label="Gedanken" link="#Gedanken" id="pYGqHOcFP-4IHi820C4A-19">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;sketch=1;fillColor=#FAD9D5;fontColor=#3399FF;fontFamily=Caveat;fontSize=25;" parent="UKkLcuHF_fx8RomHYdhX-1" vertex="1">
             <mxGeometry x="21" y="557" width="65" height="65" as="geometry" />
           </mxCell>
