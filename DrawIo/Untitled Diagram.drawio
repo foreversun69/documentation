@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-02T13:29:47.840Z" agent="5.0 (Windows)" etag="V9qs1rH8rfuD9R2qddId" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-02T13:36:08.163Z" agent="5.0 (Windows)" etag="lIZSJpSRfBrmIrAu6wAW" version="13.5.8" type="github">
   <diagram id="aqHeSlBcvXiXOjExBY4y" name="overview">
     <mxGraphModel dx="1038" dy="575" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="757" pageHeight="769" background="none" math="0" shadow="1" extFonts="Caveat^https://fonts.googleapis.com/css?family=Caveat">
       <root>
@@ -71,7 +71,7 @@
         <mxCell id="pYGqHOcFP-4IHi820C4A-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;sketch=1;strokeColor=#09555B;fontColor=#1A1A1A;strokeWidth=1;" parent="UKkLcuHF_fx8RomHYdhX-1" source="pYGqHOcFP-4IHi820C4A-8" target="pYGqHOcFP-4IHi820C4A-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Urteil" id="pYGqHOcFP-4IHi820C4A-8">
+        <UserObject label="Urteil" link="http://127.0.0.1:8080/#OWN%20-%20Urteil" id="pYGqHOcFP-4IHi820C4A-8">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;sketch=1;fontColor=#3399FF;fontFamily=Caveat;fontSize=35;fontStyle=1;fillColor=#FAA885;" parent="UKkLcuHF_fx8RomHYdhX-1" vertex="1">
             <mxGeometry x="231" y="155" width="97" height="97" as="geometry" />
           </mxCell>
