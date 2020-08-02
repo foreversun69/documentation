@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-02T13:36:08.163Z" agent="5.0 (Windows)" etag="lIZSJpSRfBrmIrAu6wAW" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-02T16:56:40.480Z" agent="5.0 (Windows)" etag="uNHqC3kTvsORUDhbnzgs" version="13.5.8" type="github">
   <diagram id="aqHeSlBcvXiXOjExBY4y" name="overview">
     <mxGraphModel dx="1038" dy="575" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="757" pageHeight="769" background="none" math="0" shadow="1" extFonts="Caveat^https://fonts.googleapis.com/css?family=Caveat">
       <root>
@@ -25,9 +25,9 @@
             <mxPoint x="307" y="295" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3aoXTor0AiqatjSYsbcj-2" value="Neue Informationen verknüpfen" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" parent="pYGqHOcFP-4IHi820C4A-7" vertex="1" connectable="0">
+        <mxCell id="3aoXTor0AiqatjSYsbcj-2" value="&lt;div&gt;Neue Informationen verknüpfen &lt;br&gt;&lt;/div&gt;&lt;div&gt;und archivieren&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" parent="pYGqHOcFP-4IHi820C4A-7" vertex="1" connectable="0">
           <mxGeometry x="-0.2915" y="30" relative="1" as="geometry">
-            <mxPoint x="12" y="-40" as="offset" />
+            <mxPoint x="11" y="-39" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pYGqHOcFP-4IHi820C4A-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;curved=1;sketch=1;strokeColor=#09555B;fontColor=#1A1A1A;strokeWidth=3;" parent="UKkLcuHF_fx8RomHYdhX-1" source="UKkLcuHF_fx8RomHYdhX-2" target="pYGqHOcFP-4IHi820C4A-8" edge="1">
