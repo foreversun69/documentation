@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-17T14:30:28.272Z" agent="5.0 (Windows)" etag="9ClolkG8zsOOaS1qBCL_" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-17T17:14:07.379Z" agent="5.0 (Windows)" etag="UYhyCbLoF1T066i42SgV" version="13.6.2" type="github">
   <diagram id="aqHeSlBcvXiXOjExBY4y" name="overview">
     <mxGraphModel dx="1795" dy="1344" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="757" pageHeight="769" background="none" math="0" shadow="1" extFonts="Caveat^https://fonts.googleapis.com/css?family=Caveat">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="pYGqHOcFP-4IHi820C4A-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;sketch=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="UKkLcuHF_fx8RomHYdhX-1" source="pYGqHOcFP-4IHi820C4A-2" target="pYGqHOcFP-4IHi820C4A-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Flüchtige Notizen" link="http://127.0.0.1:8080/#A%20-%20System" id="pYGqHOcFP-4IHi820C4A-2">
+        <UserObject label="Flüchtige Notizen" link="https://onedrive.live.com/view.aspx?resid=94EF7385247A3370%2110708&amp;id=documents&amp;wd=target%28Tagebuch%202020.one%7CCCE585B3-3558-4C89-B170-D9815D299365%2F17.08.%20-%2023.08.2020%20KW34%7C9C600E51-1D3F-45B3-A42D-F007FA1F6F8D%2F%29" id="pYGqHOcFP-4IHi820C4A-2">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;sketch=1;fillColor=#FAA885;fontColor=#3399FF;fontFamily=Caveat;fontSize=35;fontStyle=1;" parent="UKkLcuHF_fx8RomHYdhX-1" vertex="1">
             <mxGeometry x="186" y="780" width="158" height="158" as="geometry" />
           </mxCell>
@@ -105,7 +105,7 @@
             <mxGeometry x="47" y="870" width="86" height="86" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Aufgaben" id="pYGqHOcFP-4IHi820C4A-21">
+        <UserObject label="Aufgaben" link="onenote:https://d.docs.live.net/94ef7385247a3370/Dokumente/Expressives%20Schreiben/Tagebuch%202020.one#17.08.%20-%2023.08.2020%20KW34&amp;section-id={CCE585B3-3558-4C89-B170-D9815D299365}&amp;page-id={9C600E51-1D3F-45B3-A42D-F007FA1F6F8D}&amp;end" id="pYGqHOcFP-4IHi820C4A-21">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;sketch=1;fillColor=#FAD9D5;fontColor=#3399FF;fontFamily=Caveat;fontSize=25;" parent="UKkLcuHF_fx8RomHYdhX-1" vertex="1">
             <mxGeometry x="231" y="991" width="65" height="65" as="geometry" />
           </mxCell>
