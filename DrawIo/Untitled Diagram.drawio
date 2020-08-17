@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-17T18:00:41.720Z" agent="5.0 (Windows)" etag="vpe9hhubdn2yZFLVWy-o" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-17T18:04:13.502Z" agent="5.0 (Windows)" etag="Q60x-GyF8EbCxnHa9wBm" version="13.6.2" type="github">
   <diagram id="aqHeSlBcvXiXOjExBY4y" name="overview">
-    <mxGraphModel dx="2833" dy="1919" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="757" pageHeight="769" background="none" math="0" shadow="1" extFonts="Caveat^https://fonts.googleapis.com/css?family=Caveat">
+    <mxGraphModel dx="2240" dy="1590" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="757" pageHeight="769" background="none" math="0" shadow="1" extFonts="Caveat^https://fonts.googleapis.com/css?family=Caveat">
       <root>
         <mxCell id="UKkLcuHF_fx8RomHYdhX-0" />
         <mxCell id="UKkLcuHF_fx8RomHYdhX-1" parent="UKkLcuHF_fx8RomHYdhX-0" />
@@ -99,7 +99,7 @@
         </UserObject>
         <UserObject label="Komplexität" id="pYGqHOcFP-4IHi820C4A-11">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;sketch=1;fillColor=#FAD9D5;fontColor=#3399FF;fontFamily=Caveat;fontSize=25;" parent="UKkLcuHF_fx8RomHYdhX-1" vertex="1">
-            <mxGeometry x="-416" y="57" width="108" height="108" as="geometry" />
+            <mxGeometry x="-437" y="37" width="108" height="108" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Flow" id="pYGqHOcFP-4IHi820C4A-13">
