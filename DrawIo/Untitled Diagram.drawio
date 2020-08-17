@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-17T18:15:19.602Z" agent="5.0 (Windows)" etag="7fa15CCzT0tm0vTW-nz0" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-17T19:08:19.279Z" agent="5.0 (Windows)" etag="Za1CZJdf86ish7pVg1m6" version="13.6.2" type="github">
   <diagram id="aqHeSlBcvXiXOjExBY4y" name="overview">
     <mxGraphModel dx="2833" dy="1919" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="757" pageHeight="769" background="none" math="0" shadow="1" extFonts="Caveat^https://fonts.googleapis.com/css?family=Caveat">
       <root>
@@ -59,7 +59,7 @@
         </mxCell>
         <mxCell id="3aoXTor0AiqatjSYsbcj-3" value="Neue Informationen bewerten" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" parent="pYGqHOcFP-4IHi820C4A-9" vertex="1" connectable="0">
           <mxGeometry x="0.1601" y="-5" relative="1" as="geometry">
-            <mxPoint x="-7.600000000000001" y="4.36999999999999" as="offset" />
+            <mxPoint x="-2.6000000000000014" y="114.36999999999999" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pYGqHOcFP-4IHi820C4A-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;sketch=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="UKkLcuHF_fx8RomHYdhX-1" source="60kA3YNt6HDmf7yOFUqT-0" target="pYGqHOcFP-4IHi820C4A-13" edge="1">
