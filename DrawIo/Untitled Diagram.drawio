@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-17T18:04:13.502Z" agent="5.0 (Windows)" etag="Q60x-GyF8EbCxnHa9wBm" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-17T18:05:09.901Z" agent="5.0 (Windows)" etag="eDbpbpSSBkaPYnpfLC1N" version="13.6.2" type="github">
   <diagram id="aqHeSlBcvXiXOjExBY4y" name="overview">
-    <mxGraphModel dx="2240" dy="1590" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="757" pageHeight="769" background="none" math="0" shadow="1" extFonts="Caveat^https://fonts.googleapis.com/css?family=Caveat">
+    <mxGraphModel dx="2833" dy="1919" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="757" pageHeight="769" background="none" math="0" shadow="1" extFonts="Caveat^https://fonts.googleapis.com/css?family=Caveat">
       <root>
         <mxCell id="UKkLcuHF_fx8RomHYdhX-0" />
         <mxCell id="UKkLcuHF_fx8RomHYdhX-1" parent="UKkLcuHF_fx8RomHYdhX-0" />
@@ -153,15 +153,6 @@
         </mxCell>
         <mxCell id="qtNsXL5EpqLnmn73Hoa1-2" value="Clickup" style="whiteSpace=wrap;html=1;fontFamily=Caveat;fontSize=35;fontStyle=1;strokeColor=none;sketch=1;fontColor=#FF0000;fillColor=#33FF99;imageWidth=25;" parent="UKkLcuHF_fx8RomHYdhX-1" vertex="1">
           <mxGeometry x="500" y="472" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="ZXUi4KG1Wnq2fOnH_GjA-0" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="UKkLcuHF_fx8RomHYdhX-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="354" y="537" as="sourcePoint" />
-            <mxPoint x="404" y="487" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZXUi4KG1Wnq2fOnH_GjA-3" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UKkLcuHF_fx8RomHYdhX-1">
-          <mxGeometry x="360" y="502" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
