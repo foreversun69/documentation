@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-09-06T18:46:57.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="tGAdtoJOSj0mw2IoOd7n" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-06T18:48:21.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="-u3yqwHkCfAtlWSqh0Db" version="13.6.6" type="github">
   <diagram id="3uAsL9i0qD9q28Ivpjxe" name="Page-1">
-    <mxGraphModel dx="899" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="606" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5u8Tjx4xgmNnmQp9_1kH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5u8Tjx4xgmNnmQp9_1kH-1" value="Aus Clickup heraus" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
