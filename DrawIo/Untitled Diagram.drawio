@@ -112,7 +112,6 @@
         <mxCell id="pYGqHOcFP-4IHi820C4A-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;sketch=1;strokeColor=#09555B;fontColor=#1A1A1A;" parent="UKkLcuHF_fx8RomHYdhX-1" source="pYGqHOcFP-4IHi820C4A-2" target="pYGqHOcFP-4IHi820C4A-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Flüchtige Notizen" link="http://localhost:8080/#Tragbares%20Ged%C3%A4chtnis" id="pYGqHOcFP-4IHi820C4A-2">
         <UserObject label="Flüchtige Notizen" link="#Tragbares Gedächtnis" id="pYGqHOcFP-4IHi820C4A-2">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;sketch=1;fillColor=#FAA885;fontColor=#3399FF;fontFamily=Caveat;fontSize=35;fontStyle=1;" parent="UKkLcuHF_fx8RomHYdhX-1" vertex="1">
             <mxGeometry x="186" y="780" width="158" height="158" as="geometry" />
